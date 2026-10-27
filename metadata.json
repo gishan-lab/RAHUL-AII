@@ -1,0 +1,6 @@
+{
+  "name": "RAHUL AI",
+  "description": "Your Personal AI. Your Voice. Your Control. Intelligent personal assistant with voice interaction, dynamic prompt suggestions, phone actions, study tools, and multi-language support in English, Bengali, and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
